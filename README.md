@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdu
+- 👋 Hi, I’m Starbase
 - 👀 I’m interested in Full-stack web dev.
 - 🌱 I’m currently learning Css,javascript and git/github
 - 💞️ I’m looking to collaborate on anything
