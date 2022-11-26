@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me </br>
 - Stackoverflow https://stackoverflow.com/users/17602975/abdelwahid-eisa
-- tiktok        https://www.tiktok.com/@infinite_base?is_from_webapp=1&sender_device=pc
+- linkedin https://www.linkedin.com/in/abdelwahid-abdelmahmoud-ab4180255/
+- 
 
 <!---
 star2940/star2940 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
