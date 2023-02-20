@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Starbase
+- 👋 Hi, I’m Abdu
 - 👀 I’m interested in Full-stack web dev.
-- 🌱 I’m currently learning Css,javascript and git/github
+- 🌱 I’m currently learning Html,Css,javascript,git&github
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me </br>
 - Stackoverflow https://stackoverflow.com/users/17602975/abdelwahid-eisa
